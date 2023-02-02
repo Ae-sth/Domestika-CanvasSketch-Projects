@@ -4,6 +4,7 @@
     "canvas-sketch-cli": "^1.11.15",
     "canvas-sketch-util": "^1.10.0",
     "global": "^4.4.0",
+    "riso-colors": "^1.0.1",
     "tweakpane": "^3.1.0"
   }
 }
