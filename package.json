@@ -3,6 +3,7 @@
     "canvas-sketch": "^0.7.5",
     "canvas-sketch-cli": "^1.11.15",
     "canvas-sketch-util": "^1.10.0",
+    "color-interpolate": "^1.0.5",
     "colormap": "^2.3.2",
     "eases": "^1.0.8",
     "global": "^4.4.0",
